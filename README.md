@@ -2,7 +2,7 @@
 Dataset and do-file used to compute the statistical analyses for the
 "Exploring the Zika virus epidemic's association with fertility in a cohort of women in a metropolis in Northeastern Brazil: 
 socioeconomic and educational gradients" paper.
-Sanhueza C. et al 2023.
+Sanhueza C. (carlosanhueza.san@gmail.com) et al 2023.
 
 Lat update: 13th of March, 2023
 
